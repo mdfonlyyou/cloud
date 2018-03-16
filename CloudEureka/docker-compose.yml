@@ -1,0 +1,6 @@
+eureka:
+  build: ./target
+  ports:
+    - "8900:8900"
+  expose:
+    - 8900

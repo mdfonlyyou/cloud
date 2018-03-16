@@ -1,0 +1,6 @@
+service:
+  build: ./target
+  ports:
+    - "9100:9100"
+  expose:
+    - 9100
