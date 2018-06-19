@@ -33,10 +33,10 @@ public class Swagger2Config {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("米度微联充电平台API文档")
+                .title("马登峰的文档")
                 .description("API文档主要小程序和管理后台的RESTFUL API请求")
                 .termsOfServiceUrl("http://www.midutek.com/index.html")
-                .contact(new Contact("z1ven",null,null))
+                .contact(new Contact("madengfeng",null,null))
                 .version("1.0")
                 .build();
     }
