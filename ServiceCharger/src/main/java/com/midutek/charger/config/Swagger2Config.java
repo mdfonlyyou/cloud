@@ -34,7 +34,7 @@ public class Swagger2Config {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("马登峰的文档")
-                .description("API文档主要小程序和管理后台的RESTFUL API请求")
+                .description("厕所死死死死死")
                 .termsOfServiceUrl("http://www.midutek.com/index.html")
                 .contact(new Contact("madengfeng",null,null))
                 .version("1.0")
